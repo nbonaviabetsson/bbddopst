@@ -1,0 +1,18 @@
+{
+  "name": "validator",
+  "version": "1.0.0",
+  "description": "Validates that the code has been deployed successfully",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
